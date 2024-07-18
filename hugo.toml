@@ -29,7 +29,7 @@ paginate     = 10
   
   umami.enabled = true
   umami.websiteId = "72de59bb-a1dc-4fb1-8367-accbec646820"
-  umami.jsLocation = "https://analytics.my-hugo-blog.tld/umami.js"
+  umami.jsLocation = "https://cloud.umami.is/script.js"
 
 [taxonomies]
     category = "blog"
