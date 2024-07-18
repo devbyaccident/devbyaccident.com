@@ -4,6 +4,10 @@ languagCeode = "en-us"
 theme        = "hello-friend-ng"
 paginate     = 10
 
+enableRobotsTXT = true
+enableGitInfo   = true
+enableEmoji     = true
+
 [params]
   dateform        = "Jan 2, 2006"
   dateformShort   = "Jan 2"
@@ -44,7 +48,7 @@ paginate     = 10
     readOtherPosts = "Read other posts"
 
   [languages.en.params]
-    subtitle  = "A simple theme for Hugo"
+    subtitle  = "Doing random things on the internet"
 
     [languages.en.params.logo]
       logoText = "DevByAccident"
