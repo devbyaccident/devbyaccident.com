@@ -9,6 +9,7 @@
         defer
         data-website-id="{{ .Site.Params.umami.websiteId }}"
         src="{{ .Site.Params.umami.jsLocation }}"
+        crossorigin="anonymous"
         ></script>
         <div>
             {{ if .Site.Params.Portrait.Path }}
