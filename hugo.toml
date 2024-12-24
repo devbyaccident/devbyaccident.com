@@ -68,4 +68,6 @@ enableEmoji     = true
     name = "github"
     url  = "https://github.com/devbyaccident"
   
-  
+  [[params.social]]
+    name = "linkedin"
+    url  = "https://www.linkedin.com/in/christopherblackden/"
